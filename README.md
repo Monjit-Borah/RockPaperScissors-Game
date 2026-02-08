@@ -6,7 +6,7 @@ Play against the computer and test your luck with this classic game!
 ---
 
 ## 🚀 Live Demo  
-🔗 [Click here to play](https://monjit-borah.github.io/RockPaperScissors-Game)
+🔗 [Click here to play](https://monjit-borah.github.io/RockPaperScissors-Game/)
 
 ---
 
