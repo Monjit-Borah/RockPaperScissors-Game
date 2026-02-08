@@ -65,7 +65,7 @@ Open `index.html` in your browser.
 ## 📸 Screenshot (Optional)
 
 ```md
-![Game Preview](/ui-demo.png)
+![Game Preview](./ui-demo.png)
 ```
 
 ---
