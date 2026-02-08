@@ -62,14 +62,6 @@ Open `index.html` in your browser.
 
 ---
 
-## 📸 Screenshot (Optional)
-
-```md
-![Game Preview](./ui-demo.png)
-```
-
----
-
 ## ⭐ Author
 
 **Monjit Borah**  
@@ -77,3 +69,4 @@ Open `index.html` in your browser.
 ---
 
 ⭐ **If you like this project, give it a star!**
+
